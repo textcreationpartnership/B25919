@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to two members of Parliament</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25919</idno><idno type="EEBO-CITATION">99827814</idno>
+  <idno type="VID">206889</idno>
+  <idno type="EEBO-PROQUEST">2264214355</idno>
+  
+            <idno type="STC">Wing L1753</idno>
+            <idno type="PROQUEST">99827814</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827814e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206889)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1853:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to two members of Parliament</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the University of London Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:206889:1"/>
+            <head>A Letter to Two Members of PARLIAMENT.</head>
+            <p>THE honour you and your worthy Friend did me last Friday night, in requiring my thoughts concerning the new Coinage now on foot, hath engaged me to imploy my mind wholly on that matter, and sum up all that I had read upon it.</p>
+            <p>You both concur with me, that the Letter from <hi>Amsterdam,</hi> Mr. <hi>Lownds</hi>'s Book, and the <hi>Ano<g ref="char:EOLhyphen"/>nimous</hi> Author of a Book Intituled, <hi>Regulating Silver Coin made Practicable and Easie,</hi> comprehend all that can be said on the Subject.</p>
+            <p>The Letter from <hi>Amsterdam</hi> seems to have been fram'd more for the interests of <hi>Amsterdam</hi> than <hi>London.</hi> 'Tis too plain a Counter-sham to pass upon the whole <hi>English</hi> Nation. <hi>Pauper videri vult Cinna &amp; est Pauper,</hi> may be fitly applied to it; and the <hi>English</hi> Merchant at <hi>Amsterdam,</hi> is one I believe who hath taken up his residence there.</p>
+            <p>The other Two Books seem to be wrote by true <hi>English-men,</hi> but differ very far in their methods of Cure, tho both seem equally apprehensive of the Disease, and the dangers that attend it. I won't arbitrate between 'em, but give you my serious thoughts, since you demand 'em, upon the whole matter.</p>
+            <p>Tho I dread the Consequences, which may possibly be the effects of Coining upon the old Standard for weight and fineness; yet I am mightily pleas'd to see the <hi>Honourable House of Commons</hi> move so deliberately in an Affair of the greatest Importance, and which when once well setled will make the rest of their work short and easie. But I am amazed to see those Landed Men, who are not Members of <hi>Parliament,</hi> so violently hot for the old Standard; when it may possibly produce that effect which they would most avoid, <hi>viz. A Loss in every mans Estate.</hi> For if Coin be Exported as fast as it can privately or Authoritatively be carried away, it will become <hi>here</hi> very <hi>scarce,</hi> as well as very <hi>good;</hi> and then the price of all English Commodities must fall in proportion. It will not be exported only for the necessary expences of the War or the ballance of Trade, or payment of Foreign debts; but upon every rise of Silver abroad, it will become a profitable commodity to export, and a good security to hoard up. The rise of Silver abroad will make Silver rise at home, and then the Mints after the Clipt Money is all recoin'd will be at a stand.</p>
+            <p>The French Politicks are very refined, their Inteligence Universal; and Correspondencies Secret; and they won't be wanting by their Agents here, to melt down our Coin; and in all parts of the World to draw it away <hi>rather than Bullion,</hi> to the intent they may leave us destitute of a Species of Money to carry on our <hi>Inland-Trade,</hi> pay Rents, and Taxes, and support the <hi>KING</hi> in this necessary War, upon which the fate of all <hi>Europe</hi> seems to depend. That little that is left is good and scarce, and upon the account of its <hi>goodness</hi> as well as <hi>scarcity,</hi> Corn, Wool, Hay, Cattle, <hi>&amp;c.</hi> must fall accordingly; and as it was formerly in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> when we had but little Money stirring; every thing of our own Product will become cheap. <hi>Then Lands must fall, and Rents be abated.</hi>
+            </p>
+            <p>
+               <hi>If it be reply'd,</hi> Landed Men can live upon a less income, Provisions being cheaper: <hi>I Answer,</hi> When Rents are once fallen 'twill be a hard matter to raise 'em; and when in times of Peace Mony shall be more plentiful, and Provisions dearer, the Farmer won't easily be persuaded to raise his Rent. This is a plain Consequence, which <hi>scarcity</hi> and <hi>weightiness</hi> of Mony will produce.</p>
+            <p>Now on the other side, if a Crown shall be Coin'd so as to have in it but 4 <hi>s.</hi> worth of Silver, and to be <hi>truly worth</hi> no more than 4 <hi>s.</hi> that will not hinder the Exportation at all. For if it be worth in <hi>England</hi> but 4 <hi>s.</hi> or 48 pence, it will then be easily Exported for 48 pence; for still it yields as much abroad as it doth at home, and it will pay the same Debts abroad, as it will at home. So that he who cannot send over Goods, will without scruple send over Mony, and not trouble himself to find out and buy Bullion for that use, suppose there no Pro<g ref="char:EOLhyphen"/>hibition; since Mony and Bullion will be pretty near of an equal Value.</p>
+            <p>But if an EQUIVALENT can be found out for that Shilling, which the Crown Piece shall want of its intrinsick Value; and that <hi>Equivalent</hi> be confined to <hi>England,</hi> then he who Exports it loses a Shilling; and few Men will send over the true Value of five Shillings, when it will yield aroad but 4 <hi>s.</hi> and in lieu of which he can send over as much Bullion as four English Shillings, or four parts in five of a Crown, will buy.</p>
+            <p>If therefore another species of a <hi>lower Standard</hi> than that which the <hi>Honourable House of Commons</hi> hath Voted the Clipt Mony to be re-coin'd of; shall be <hi>likewise</hi> Coin'd <hi>over</hi> and <hi>above,</hi> and <hi>much more</hi> in tale than that which the Clip'd Mony will produce; that <hi>new Species</hi> can never go out of the Nation, if a real <hi>Equiva<g ref="char:EOLhyphen"/>lent</hi> for what it shall want, be found out, and fix'd immovably here.</p>
+            <p>All the Clip'd Money, together with the 1200000 <hi>l.</hi> to make good its deficiency, will not produce half as much in tale, as is necessary to carry on well the inland Trade.</p>
+            <p>And if every year much of that shall be Exported, or melted down (which every Start of Silver will en<g ref="char:EOLhyphen"/>danger it to be) we shall be left in a very dubious Condition.</p>
+            <p>But then if that <hi>under species</hi> of Mony to be Coin'd (after the Clip'd Money is all recoin'd and issued out) have not as true and great a Value by means of an <hi>Equivalent,</hi> as the Money of the <hi>Old Standard;</hi> it will not be so Current as that of the Old Standard, in buying and selling, and payment of debts.</p>
+            <p>Now how to make that <hi>Equivalent</hi> satisfactory to Landed men who must receive it for their Rents promiscu<g ref="char:EOLhyphen"/>ously with the other, is the only difficulty. <hi>Paying Interest</hi> for it once a Year, as the <hi>Anonimous</hi> Author pro<g ref="char:EOLhyphen"/>poses, looks inconvenient, and will expose too much the running Cash of Trading Men. Nor is there occasion for the Government to be at that Yearly Expence, provided the <hi>Principal</hi> which is deficient can be ascertain'd, and secur'd at the end of the War. Or if Interest be to be paid, it may run on along with the Principal, and both Interest and Principal paid together at the end of the War, or such a determinate Time.</p>
+            <p>I hate Flattery either active or passive, but I sincerely approve of your Honours Project. And all true heart<g ref="char:EOLhyphen"/>ed <hi>English-men</hi> will have cause to bless You for promoting it. And altho Foreign Merchants may hang their Ears at it, yet all <hi>Princes</hi> and <hi>States</hi> of the <hi>Allies</hi> will be well pleased, that we are put into a condition of Carry<g ref="char:EOLhyphen"/>ing on the War, by Living in Unity, Peace, and <hi>plenty of Money</hi> at Home.</p>
+            <p>
+               <hi>Prosperity attend the Consultations of Your Honourable House.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>I am Your Honours.</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="abstract">
+            <head>ABSTRACT of the PROPOSAL.</head>
+            <p>SƲppose <hi>Four Millions</hi> of <hi>Money</hi> to be Coin'd of such a Standard, as to have in it <hi>Three Millions</hi> worth of <hi>Bulli<g ref="char:EOLhyphen"/>on.</hi> Then hath the <hi>Parliament</hi> borrowed out of the four Millions, one Million towards this years expences of the War. <hi>And they have a Million less this Year to raise.</hi> For the repaying of this Loan, let a sufficient fund be setled, and appropriated inviolably to that, and no other use; and payable to the respective Proprietors of the said Species of Money at the end of so many Years, or at the end of the War.</p>
+            <p>When the term is expired, and the Money to be made good; what every Mans Money wants in weight shall be paid to him at sight of the said Money, giving every piece a Stamp that it may not be answered for twice.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>I cannot but observe to your Honours, that the thought of Stamping Money would have answered all the Ob<g ref="char:EOLhyphen"/>jections against the <hi>Anonimous</hi> Author; for if a Stamp had been given Money every Year, as the Interest had been paid, there would have been no occasion for 300 <hi>Commissi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ners</hi> to have paid it in one day; nor need any Man have <hi>exposed his running Cash.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
